@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/product-card-react-demo/static/css/main.870f8d64.css",
+    "main.js": "/product-card-react-demo/static/js/main.c5ef12f9.js",
+    "static/js/787.d42007c4.chunk.js": "/product-card-react-demo/static/js/787.d42007c4.chunk.js",
+    "static/media/montserrat-all-700-normal.woff": "/product-card-react-demo/static/media/montserrat-all-700-normal.81b48f7ab9882a2f3ea9.woff",
+    "static/media/montserrat-all-500-normal.woff": "/product-card-react-demo/static/media/montserrat-all-500-normal.598ec45d84be8894cb1a.woff",
+    "static/media/image-product-desktop.jpg": "/product-card-react-demo/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
+    "static/media/fraunces-all-700-normal.woff": "/product-card-react-demo/static/media/fraunces-all-700-normal.22cb22fcb796e2e45dbc.woff",
+    "static/media/image-product-mobile.jpg": "/product-card-react-demo/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
+    "static/media/fraunces-latin-700-normal.woff2": "/product-card-react-demo/static/media/fraunces-latin-700-normal.b1c9774cd46a29f5af69.woff2",
+    "static/media/fraunces-latin-ext-700-normal.woff2": "/product-card-react-demo/static/media/fraunces-latin-ext-700-normal.5cff6904bbc25e9e508c.woff2",
+    "static/media/montserrat-latin-700-normal.woff2": "/product-card-react-demo/static/media/montserrat-latin-700-normal.145c46aabb2eccdd1f7b.woff2",
+    "static/media/montserrat-latin-500-normal.woff2": "/product-card-react-demo/static/media/montserrat-latin-500-normal.f41a91ec0ef285c804ab.woff2",
+    "static/media/montserrat-latin-ext-700-normal.woff2": "/product-card-react-demo/static/media/montserrat-latin-ext-700-normal.8dcff46b0308fde962d3.woff2",
+    "static/media/montserrat-latin-ext-500-normal.woff2": "/product-card-react-demo/static/media/montserrat-latin-ext-500-normal.1dc89fa2b85f23747763.woff2",
+    "static/media/montserrat-cyrillic-ext-700-normal.woff2": "/product-card-react-demo/static/media/montserrat-cyrillic-ext-700-normal.5370b49a1a98a228f94d.woff2",
+    "static/media/montserrat-cyrillic-ext-500-normal.woff2": "/product-card-react-demo/static/media/montserrat-cyrillic-ext-500-normal.670c7468a6e43f177036.woff2",
+    "static/media/montserrat-cyrillic-500-normal.woff2": "/product-card-react-demo/static/media/montserrat-cyrillic-500-normal.1789038e553d800f3323.woff2",
+    "static/media/montserrat-cyrillic-700-normal.woff2": "/product-card-react-demo/static/media/montserrat-cyrillic-700-normal.e1cd217d4d3363713684.woff2",
+    "static/media/fraunces-vietnamese-700-normal.woff2": "/product-card-react-demo/static/media/fraunces-vietnamese-700-normal.400851ef0e330a63d8ea.woff2",
+    "static/media/montserrat-vietnamese-700-normal.woff2": "/product-card-react-demo/static/media/montserrat-vietnamese-700-normal.4547e4de7e93b63e91c7.woff2",
+    "static/media/montserrat-vietnamese-500-normal.woff2": "/product-card-react-demo/static/media/montserrat-vietnamese-500-normal.fb90e6609c5640e5e4fd.woff2",
+    "index.html": "/product-card-react-demo/index.html",
+    "static/media/icon-cart.svg": "/product-card-react-demo/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
+    "main.870f8d64.css.map": "/product-card-react-demo/static/css/main.870f8d64.css.map",
+    "main.c5ef12f9.js.map": "/product-card-react-demo/static/js/main.c5ef12f9.js.map",
+    "787.d42007c4.chunk.js.map": "/product-card-react-demo/static/js/787.d42007c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.870f8d64.css",
+    "static/js/main.c5ef12f9.js"
+  ]
+}
